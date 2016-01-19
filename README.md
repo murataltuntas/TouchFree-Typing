@@ -5,6 +5,10 @@ Güz 2015 Bitirme Projesi
 ARToolKit ve OpenCV kullanılarak yapılmıştır.
 (Using ARToolKit and OpenCV)
 
+
+https://youtu.be/6EP-YrSeu5I
+
+
 # ÖZET
 
 Projem, hiçbir ekrana ya da tuşa dokunmadan, sadece kamera yardımı ile parmağı ya da parmağa takılı bir işaretleyiciyi kamera ile algılayarak, kameradan gelen görüntü üzerindeki sanal numerik tuş takımını kullanılarak bilgi girişi yapmak. Görüntü üzerindeki tuş takımını tasarlayarak kullanıcı deneyimlerini test etmektir.
